@@ -2,7 +2,7 @@
 CS370 Semester Project
 
 This project utilizes a dataset from kaggle to train a model that can predict what the cost of a used vehicle will be.\
-The link to the dataset used can be found here: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
+Link to Kaggle dataset: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
 
 This code can be used with an application that takes user input for a used vehicle that is going to put on sale.
 
